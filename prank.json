@@ -4,7 +4,7 @@
 		
 			"banner_type":"yandex",
 			"inter_type":"yandex",
-			"native_type":"yandex",
+			"native_type":"admob",
 			
 			
 			
@@ -18,17 +18,17 @@
 
 			"banner_admob":"ca-app-pub-8183487897567629/7060590920",
 			"interstitial_admob":"ca-app-pub-8183487897567629/4410853189",
-			"native_admob":"ca-app-pub-3251553828797281/9216413144",
+			"native_admob":"ca-app-pub-8095421128439590/6506242874",
 			 "rewarde_admob":"ca-app-pub-8183487897567629/4330962137",  
    
 			"banner_admob1":"ca-app-pub-8183487897567629/6013690458",
 			"interstitial_admob1":"ca-app-pub-8183487897567629/3701591578",
-			"native_admob1":"ca-app-pub-4459830934377915/5356974120",
+			"native_admob1":"ca-app-pub-8095421128439590/6506242874",
 			 "rewarde_admob1":"ca-app-pub-8183487897567629/5822118766",
    
 			"banner_admob2":"ca-app-pub-8183487897567629/6013690458",
 			"interstitial_admob2":"ca-app-pub-8183487897567629/3701591578",
-			"native_admob2":"ca-app-pub-8183487897567629/5098681143",
+			"native_admob2":"ca-app-pub-8095421128439590/6506242874",
 			 "rewarde_admob2":"ca-app-pub-8183487897567629/5822118766",
    
 		   "facebook_interstitial": "79",
